@@ -6,7 +6,7 @@ from .permissions import IsAuthorOrReadOnly
 
 
 class InsectListView(generics.ListCreateAPIView):
-    permission_classes = (IsAuthorOrReadOnly,)
+    permission_classes = (IsAuthenticatedOrReadOnly,)
     queryset = Insect.objects.all()
     serializer_class = InsectSerializer
 
