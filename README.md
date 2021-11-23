@@ -12,6 +12,7 @@
 
 - Django REST Framework API Permiissions Postgres v1 "feat: completed class32" 22-11-2021
 - Django REST Framework API Permiissions Postgres v2 "fix: edited non-auth perms to readonly" 23-11-2021
+- Django REST Framework API Permiissions Postgres v3 "fix: edited details permissions" 23-11-2021
 
 ## PR
 
