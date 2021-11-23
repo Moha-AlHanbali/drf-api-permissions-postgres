@@ -2,7 +2,7 @@
 name = "asgiref"
 version = "3.4.1"
 description = "ASGI specs, helper code, and adapters"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -59,7 +59,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 name = "django"
 version = "3.2.9"
 description = "A high-level Python Web framework that encourages rapid development and clean, pragmatic design."
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -76,7 +76,7 @@ bcrypt = ["bcrypt"]
 name = "djangorestframework"
 version = "3.12.4"
 description = "Web APIs for Django, made easy."
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.5"
 
@@ -152,7 +152,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 name = "pytz"
 version = "2021.3"
 description = "World timezone definitions, modern and historical"
-category = "dev"
+category = "main"
 optional = false
 python-versions = "*"
 
@@ -168,7 +168,7 @@ python-versions = "*"
 name = "sqlparse"
 version = "0.4.2"
 description = "A non-validating SQL parser."
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.5"
 
@@ -191,7 +191,7 @@ python-versions = ">=3.6"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "ef4f8908371f953a53d093c4ec0a98bfbe3b2980c70bcf1c0dd011734aa8cf2d"
+content-hash = "af8549bd471f9cb5ad63cc82f42d9be43036aae79c194bd8c33ff32f37dd23ec"
 
 [metadata.files]
 asgiref = [
